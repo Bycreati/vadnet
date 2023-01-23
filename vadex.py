@@ -3,7 +3,7 @@ model.py
 author: Johannes Wagner <wagner@hcm-lab.de>
 created: 2018/05/04
 Copyright (C) University of Augsburg, Lab for Human Centered Multimedia
-
+Бетин Вячеслав ИБ/б-21-1-о
 Returns energy of a signal (dimensionwise or overall)
 '''
 
